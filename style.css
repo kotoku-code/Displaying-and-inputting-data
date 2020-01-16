@@ -112,7 +112,8 @@ input[type='password'] {
   font-size: 10px;
   font-weight: 400;
   position: relative;
-  right: 17.4rem;
+  /* right: 17.4rem; */
+  right: 174px;
 }
 
 label {
