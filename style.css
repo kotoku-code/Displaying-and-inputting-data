@@ -4,8 +4,6 @@
   box-sizing: border-box;
 }
 
-p{check check}
-
 html {
   background-color: #eceef1;
 }
@@ -33,6 +31,7 @@ nav a {
   font-size: 13px;
   color: #0077c5;
 }
+
 #firstLine {
   position: relative;
   right: 40px;
