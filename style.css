@@ -68,10 +68,6 @@ main img {
   border: 1px solid black;
 }
 
-.container img {
-  width: 100%;
-}
-
 form {
   text-align: center;
 }
